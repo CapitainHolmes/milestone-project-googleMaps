@@ -27,8 +27,6 @@ function initMap() {
     places = new google.maps.places.PlacesService(map);
 
     autocomplete.addListener('place_changed', onPlaceChanged);
-
-    createMarkers();
 }
 
 
