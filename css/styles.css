@@ -10,8 +10,8 @@ body {
     background-color: #567EB3;
 }
 
-.icon-bar {
-    border: 1px solid #40C4F5;
+.navbar-header h1 a:hover {
+    color: #0F4BB2;
 }
 
 .navbar-brand {
@@ -30,12 +30,6 @@ h1 a {
     text-decoration: none;
 }
 
-.nav li a {
-    color: #40C4F5;
-    margin-top: 10px;
-    margin-right: 30px;
-    font-size: 15px;
-}
 
 /*SECTION*/
 
@@ -44,7 +38,7 @@ h1 a {
 }
 
 #time {
-    font-family: 'Nova Mono', monospace;
+    font-family: cursive;
     font-size: 8vw;
     text-align: center;
     color: #40C4F5;
@@ -57,6 +51,7 @@ h1 a {
     margin-bottom: 30px;
     font-size: 5vw;
     color: #40C4F5;
+    font-family: cursive;
 }
 
 #map {
@@ -109,7 +104,9 @@ h1 a {
     text-align: right;
 }
 
-
+hr {
+    border-top-color: #40C4F5;
+}
 
 /*FOOTER*/
 
@@ -119,9 +116,13 @@ h1 a {
     width: 100%;
 }
 
-.social-links a{
+.social-links a {
     color: #40C4F5;
-    font-size: 2vw;
+    font-size: 3vw;
+}
+
+.social-links li a i:hover {
+    color: #0F4BB2;
 }
 
 /*MEDIA QUERIES*/
