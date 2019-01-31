@@ -210,10 +210,7 @@ function buildIWContent(place) {
     }
 }
 
-
-
-
-
+//CLOCK
 
 window.setInterval(ut, 1000);
 
