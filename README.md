@@ -22,10 +22,20 @@ address and contact details also.
 
 ## FEATURES
 
+### Features Used in This Project:
 
+- Able to search for any location in the world.
+- Find the closest accomodation/bars/restaurants in that area.
+- View the ratings of each hotel/bar/restaurant.
+- View the contact details and address of each hotel/bar/restaurant.
+- View and select the tourist attractions/points of interest within the specified area.
 
 ## TECHNOLOGIES
 
+### The Technologies I Have Used:
+
+- **[Google Maps API](https://developers.google.com/maps/)** - I have used the Google Maps API for use of their google maps service.
+- **[Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)** - I have used Bootstrap for it's grid system for making my application responsive.
 
 
 ## TESTING
