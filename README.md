@@ -37,7 +37,6 @@ address and contact details also.
 - **[Google Maps API](https://developers.google.com/maps/)** - I have used the Google Maps API for use of their google maps service.
 - **[Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)** - I have used Bootstrap for it's grid system, making my application responsive.
 - **[Boostrap Font Awesome](https://www.bootstrapcdn.com/fontawesome/)** - I have used the Bootstrap Font Awesome CDN to make use of their social icons.
-- 
 
 
 ## TESTING
@@ -49,9 +48,5 @@ address and contact details also.
 
 
 ## CREDIT
-
-
-
-## ACKNOWLEDGEMENTS
 
 

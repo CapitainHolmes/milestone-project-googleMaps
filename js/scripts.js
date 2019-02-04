@@ -1,9 +1,11 @@
+// VARIABLES
 var map, places, infoWindow;
 var markers = [];
 var autocomplete;
 var MARKER_PATH = 'https://developers.google.com/maps/documentation/javascript/images/marker_green';
 var hostnameRegexp = new RegExp('^https?://.+?/');
 
+// GOOGLE MAP
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
         center: { lat: 48.987544, lng: 6.447939 },

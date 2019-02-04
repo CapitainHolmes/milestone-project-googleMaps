@@ -33,27 +33,6 @@ h1 a {
 
 /*SECTION*/
 
-.timeBox {
-    text-align: center;
-}
-
-#time {
-    font-family: cursive;
-    font-size: 4vw;
-    text-align: center;
-    color: #40C4F5;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
-}
-
-.ldnTime {
-    padding: 0px;
-    margin-bottom: 30px;
-    font-size: 2vw;
-    color: #40C4F5;
-    font-family: cursive;
-}
-
 #map {
     width: 80%;
     height: 30vw;
