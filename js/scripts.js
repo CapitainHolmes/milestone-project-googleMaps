@@ -212,9 +212,9 @@ function buildIWContent(place) {
 
 //CLOCK
 
-window.setInterval(ut, 1000);
+window.setInterval(gmt, 1000);
 
-function ut() {
+function gmt() {
   var d = new Date();
   document.getElementById("time").innerHTML = d.toLocaleTimeString();
 }
