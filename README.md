@@ -19,6 +19,8 @@ address and contact details also.
 - As a User I want to be able to search for specific areas.
 - As a User I want to search for bars and restaurants.
 - As a User I want to select a specific bar, restaurant or hotel and get the correct contact details and address for that place.
+- As a User I thought it was a good idea to add a clock, but then spoke to multiple people and decided against and was a good decision to remove it.
+- As a User I thought "hiding" the results table on smaller screens was a good idea as it looked untidy and messy.
 
 ## FEATURES
 
