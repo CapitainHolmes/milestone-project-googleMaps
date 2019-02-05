@@ -37,19 +37,61 @@ address and contact details also.
 ### The Technologies I Have Used:
 
 - **[Google Maps API](https://developers.google.com/maps/)** - I have used the Google Maps API for use of their google maps service.
+- **[Google Places API](https://developers.google.com/places/web-service/intro)** - I have use the Google Places Api for use of their points of interest/hotels/bars to be added to my map.
 - **[Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)** - I have used Bootstrap for it's grid system, making my application responsive.
 - **[Boostrap Font Awesome](https://www.bootstrapcdn.com/fontawesome/)** - I have used the Bootstrap Font Awesome CDN to make use of their social icons.
 - **[jQuery](https://jquery.com/download/)** - I have used jQuery for simplicity with my JavaScript.
+- **[Balsamiq](https://balsamiq.com/)** - I have use Balsamiq to create my Mockups for this application which can be found **[Here](https://github.com/CapitainHolmes/milestone-project-googleMaps/tree/master/mockups)**.
 
 
 ## TESTING
 
+I conducted tests on a wide selction of browsers/devices to ensure User's can successfully use the site and it's features.
 
+Tests conducted:
+
+- Checking the functionality of the Google Maps Api, making sure everything worked as it should
+- Making sure the code runs wihtout issues using the **[Google Chrome Inspect](https://developers.google.com/web/tools/chrome-devtools/shortcuts)** Tools.
+Inside Chromes Dev Tools I can:
+    - Check the responsiveness for individual phones and screens, example, an IPhone/Samsung.
+    - Use the console to check the stability of my **[JavaScript](https://en.wikipedia.org/wiki/JavaScript)** files so that there is no errors and it is not broken.
+    - I can also change and adapt my code inside the Tools, to see what works and what doesn't. Also staying aware that these changes I make are not permenant.
+
+These tests included browsers/devices:
+
+- Edge - laptop
+- Mozilla - laptop
+- Chrome - laptop and Iphone
+- Safari - Iphone
+- Internet Explorer - laptop
 
 ## DEPLOYMENT
 
+Throughout the course of this project I have been commiting every finished functionality, every bug fix and things I thought needed removing, to GitHub
+using **[Version Control](https://ourcodingclub.github.io/2017/02/27/git.html)**.
 
 
 ## CREDIT
+
+### Content
+
+Most of the content used in this project has been noted within the Technologies section.
+
+I did however use **[Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)**'s Youtube Channel. 
+Specificly his videos on the Google Maps API, which can be found **[Here](https://www.youtube.com/watch?v=Zxf1mnP5zcw&t=1355s)**.
+
+
+## ACKNOWLEDGEMENTS
+
+I recieved inspiration for this project from:
+
+- Friends.
+- My Mentor Juan.
+- Various Youtube Channels, one mentioned above.
+
+
+
+
+
 
 
