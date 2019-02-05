@@ -127,10 +127,12 @@ hr {
 
     #locationField {
         width: 92%;
+        margin-left: 15px;
     }
 
     #map {
         width: 92%;
+        margin-left: 15px;
     }
 
     #listing {
