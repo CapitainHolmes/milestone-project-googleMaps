@@ -211,12 +211,3 @@ function buildIWContent(place) {
         document.getElementById('iw-website-row').style.display = 'none';
     }
 }
-
-//CLOCK
-
-window.setInterval(gmt, 1000);
-
-function gmt() {
-  var d = new Date();
-  document.getElementById("time").innerHTML = d.toLocaleTimeString();
-}
