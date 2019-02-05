@@ -78,7 +78,7 @@ using **[Version Control](https://ourcodingclub.github.io/2017/02/27/git.html)**
 Most of the content used in this project has been noted within the Technologies section.
 
 I did however use **[Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)**'s Youtube Channel. 
-Specificly his videos on the Google Maps API, which can be found **[Here](https://www.youtube.com/watch?v=Zxf1mnP5zcw&t=1355s)**.
+Specificly his videos on the Google Maps API giving me a better insight, which can be found **[Here](https://www.youtube.com/watch?v=Zxf1mnP5zcw&t=1355s)**.
 
 
 ## ACKNOWLEDGEMENTS
