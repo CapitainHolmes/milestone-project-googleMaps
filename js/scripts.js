@@ -1,9 +1,9 @@
-// VARIABLES
-var map, places, infoWindow;
-var markers = [];
-var autocomplete;
-var MARKER_PATH = 'https://developers.google.com/maps/documentation/javascript/images/marker_green';
-var hostnameRegexp = new RegExp('^https?://.+?/');
+//VARIABLES
+let map, places, infoWindow;
+let markers = [];
+let autocomplete;
+let MARKER_PATH = 'https://developers.google.com/maps/documentation/javascript/images/marker_green';
+let hostnameRegexp = new RegExp('^https?://.+?/');
 
 // GOOGLE MAP
 function initMap() {

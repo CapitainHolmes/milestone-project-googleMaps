@@ -31,6 +31,7 @@ address and contact details also.
 - View the ratings of each hotel/bar/restaurant.
 - View the contact details and address of each hotel/bar/restaurant.
 - View and select the tourist attractions/points of interest within the specified area.
+- Added reset button to refresh the page if you wish to restart your search.
 
 ## TECHNOLOGIES
 
@@ -40,7 +41,7 @@ address and contact details also.
 - **[Google Places API](https://developers.google.com/places/web-service/intro)** - I have use the Google Places Api for use of their points of interest/hotels/bars to be added to my map.
 - **[Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)** - I have used Bootstrap for it's grid system, making my application responsive.
 - **[Boostrap Font Awesome](https://www.bootstrapcdn.com/fontawesome/)** - I have used the Bootstrap Font Awesome CDN to make use of their social icons.
-- **[jQuery](https://jquery.com/download/)** - I have used jQuery for simplicity with my JavaScript.
+- **[jQuery](https://jquery.com/download/)** - I have used jQuery for simplicity with my JavaScript. **jQuery I actually removed as I thought it would make the application slower and decided to use Vanilla JS.**
 - **[Balsamiq](https://balsamiq.com/)** - I have use Balsamiq to create my Mockups for this application which can be found **[Here](https://github.com/CapitainHolmes/milestone-project-googleMaps/tree/master/mockups)**.
 
 
@@ -61,14 +62,16 @@ These tests included browsers/devices:
 
 - Edge - laptop
 - Mozilla - laptop
-- Chrome - laptop and Iphone
-- Safari - Iphone
+- Chrome - laptop and iPhone
+- Safari - iPhone
 - Internet Explorer - laptop
 
 ## DEPLOYMENT
 
 Throughout the course of this project I have been commiting every finished functionality, every bug fix and things I thought needed removing, to GitHub
 using **[Version Control](https://ourcodingclub.github.io/2017/02/27/git.html)**.
+
+I have fully deployed this application to GitHub Pages which can be found **[Here](https://capitainholmes.github.io/milestone-project-googleMaps/)**.
 
 
 ## CREDIT
@@ -88,10 +91,3 @@ I recieved inspiration for this project from:
 - Friends.
 - My Mentor Juan.
 - Various Youtube Channels, one mentioned above.
-
-
-
-
-
-
-
