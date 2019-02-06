@@ -10,6 +10,7 @@ body {
 
 .navbar {
     background-color: #567EB3;
+    text-align: center;
 }
 
 .navbar-header h1 a:hover {
@@ -83,6 +84,11 @@ h1 a {
 
 .iw_table_icon {
     text-align: right;
+}
+
+.reset-button {
+    text-align: center;
+    margin-top: 15px;
 }
 
 hr {
