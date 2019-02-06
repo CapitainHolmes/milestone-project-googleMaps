@@ -14,7 +14,7 @@
 
 <body>
 
-    <header class="container-fluid">
+    <header class="container">
         <nav class="navbar fixed-top">
             <div class="navbar-header">
                 <h1><a class="navbar-brand" href="index.html">TJH Travel</a></h1>
@@ -23,7 +23,8 @@
     </header>
 
 
-    <section class="container-fluid">
+    <section class="container">
+        <hr>
 
         <div class="row">
             <!--SEARCH BAR-->
@@ -33,7 +34,7 @@
             <!--MAP-->
             <div class="col-xs-6 col-sm-8" id="map"></div>
             <!--RESULTS TABLE-->
-            <div class="col-xs-6 col-sm-2" id="listing">
+            <div class="col-xs-6" id="listing">
                 <table id="resultsTable">
                     <tbody id="results"></tbody>
                 </table>
@@ -71,7 +72,7 @@
 
     </section>
 
-    <footer class="container-fluid footer">
+    <footer class="container footer">
 
         <div class="social-icon-list">
             <ul class="list-inline social-links">
@@ -88,5 +89,8 @@
     <script type="text/javascript" src="js/scripts.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBkHHSyZAHa_gBmEYxe3rSwxdvcomOI-E&libraries=places&callback=initMap" async defer></script>
 </body>
+
+<input class="btn btn-primary" type="reset" value="Reset" onClick="window.location.reload()">
+
 
 </html>
