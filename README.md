@@ -19,8 +19,6 @@ address and contact details also.
 - As a User I want to be able to search for specific areas, so that my searches aren't limited.
 - As a User I want to search for bars and restaurants, so that I get an understanding of where places are so I can plan my stay.
 - As a User I want to select a specific bar, restaurant or hotel and get the correct contact details and address for that place, so that I can give a place a call to reserve a table if need be.
-- As a User I thought it was a good idea to add a clock, but then spoke to multiple people and decided against and was a good decision to remove it.
-- As a User I thought "hiding" the results table on smaller screens was a good idea as it looked untidy and messy.
 
 ## FEATURES
 
@@ -57,6 +55,14 @@ Inside Chromes Dev Tools I can:
     - Check the responsiveness for individual phones and screens, example, an IPhone/Samsung.
     - Use the console to check the stability of my **[JavaScript](https://en.wikipedia.org/wiki/JavaScript)** files so that there is no errors and it is not broken.
     - I can also change and adapt my code inside the Tools, to see what works and what doesn't. Also staying aware that these changes I make are not permenant.
+- I have used a code Validator for each type of code in my project which can be found **[Here](https://github.com/CapitainHolmes/milestone-project-googleMaps/tree/master/testing)**.
+
+Here is each Validator used:
+
+- **[HTML](https://html5.validator.nu/)**
+- **[CSS](https://jigsaw.w3.org/css-validator/)**
+- **[JavaScript](http://esprima.org/demo/validate.html)**
+
 
 These tests included browsers/devices:
 
@@ -65,6 +71,17 @@ These tests included browsers/devices:
 - Chrome - laptop and iPhone
 - Safari - iPhone
 - Internet Explorer - laptop
+
+### User Stories Testing
+
+- "As a User I want to be able to see other peoples reviews for specific places for example, a restaurant, so that I have a good understanding on whether or not that place would be worth going to." 
+**I have tested this by clicking on individual places making sure the details are all there and easily viewed.**
+- "As a User I want to be able to search for specific areas, so that my searches aren't limited." 
+**This was tested by me typing in specific places such as London.**
+- "As a User I want to search for bars and restaurants, so that I get an understanding of where places are so I can plan my stay."
+**This was tested by making sure I had correctly used the API to fetch the correct places for that location.**
+- "As a User I want to select a specific bar, restaurant or hotel and get the correct contact details and address for that place, so that I can give a place a call to reserve a table if need be."
+**This was tested by again making sure I had used Google's API correctly ad it was showing the correct infomation.**
 
 ## DEPLOYMENT
 
