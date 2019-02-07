@@ -81,7 +81,7 @@ These tests included browsers/devices:
 - "As a User I want to search for bars and restaurants, so that I get an understanding of where places are so I can plan my stay."
 **This was tested by making sure I had correctly used the API to fetch the correct places for that location.**
 - "As a User I want to select a specific bar, restaurant or hotel and get the correct contact details and address for that place, so that I can give a place a call to reserve a table if need be."
-**This was tested by again making sure I had used Google's API correctly ad it was showing the correct infomation.**
+**This was tested by again making sure I had used Google's API correctly and it was showing the correct infomation.**
 
 ## DEPLOYMENT
 
